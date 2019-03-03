@@ -4,4 +4,4 @@
 Introduction
 
 ## Week_2 (3/1 holiday)
-1. Finish homework
+1. Finish homework 0
